@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fsp/static/css/main.d65c616f.css",
+    "main.js": "/fsp/static/js/main.7a5cc7ef.js",
+    "static/js/453.6c888f40.chunk.js": "/fsp/static/js/453.6c888f40.chunk.js",
+    "static/media/botanical_1_background.gif": "/fsp/static/media/botanical_1_background.d5ea6938fc5824ea93a9.gif",
+    "static/media/menthol.png": "/fsp/static/media/menthol.1ac41ddb119b1d7a75b0.png",
+    "static/media/eucalyptus.png": "/fsp/static/media/eucalyptus.caf22a5c0d8c36caab63.png",
+    "static/media/camphor.png": "/fsp/static/media/camphor.a27b1f19ecfc726ddcac.png",
+    "static/media/axe_brand_1.jpg": "/fsp/static/media/axe_brand_1.362a4e57c43ecdf90037.jpg",
+    "static/media/lavender.png": "/fsp/static/media/lavender.8606b83c795f6f95a6e1.png",
+    "index.html": "/fsp/index.html",
+    "main.d65c616f.css.map": "/fsp/static/css/main.d65c616f.css.map",
+    "main.7a5cc7ef.js.map": "/fsp/static/js/main.7a5cc7ef.js.map",
+    "453.6c888f40.chunk.js.map": "/fsp/static/js/453.6c888f40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d65c616f.css",
+    "static/js/main.7a5cc7ef.js"
+  ]
+}
