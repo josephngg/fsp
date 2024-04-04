@@ -1,0 +1,93 @@
+/* App.css */
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  text-align: center; /* Center align the title */
+}
+
+.title-text {
+  font-family: 'YourCustomFont', sans-serif; /* Apply custom font */
+  font-size: 36px; /* Set custom font size */
+  color: #f2f1f1; /* Set custom font color */
+}
+
+/* Background */
+.background-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: url('botanical_1_background.gif');
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the background image */
+  filter: brightness(50%) blur(10px);
+}
+/* Container */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Medicated Oil Image */
+.medicated-oil {
+  width: 400px; /* Adjust size as needed */
+  margin-bottom: 20px;
+}
+
+/* Ingredient Icons */
+.ingredient-icons {
+  display: flex;
+  justify-content: space-around;
+  width: 500px; /* Adjust width as needed */
+}
+
+.ingredient-icons img {
+  width: 80px; /* Adjust size as needed */
+  cursor: pointer;
+}
+
+.ingredient-name {
+  color: #f2f1f1;
+  font-family: 'FS Kim', sans-serif;
+}
+
+/* Popup */
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.popup-content {
+  text-align: center;
+}
+
+.popup h2 {
+  margin-bottom: 10px;
+}
+
+.popup button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.popup button:hover {
+  background-color: #0056b3;
+}
